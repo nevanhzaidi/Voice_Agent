@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment variables (SECURITY RISK)
+
+# IDEs and Editors
+.idea/
+*.swp
+*.swo
+
+# OS System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Alembic
+alembic.ini.bak
+backend/uploads/
+backend/uploads/**
+# optional: macOS noise
+.DS_Store
+config.bat
+node_modules
